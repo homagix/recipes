@@ -1,7 +1,6 @@
 ---
 name: Birnen Crostini
 source: Yotam Ottolenghi aus dem Buch „Genussvoll vegetarisch“
-alwaysOnList: null
 items:
   - 20 L Olivenöl
   - 0.5 TL Salz
@@ -31,4 +30,3 @@ recipe: >-
   Mit Kerbel- oder Petersilienblättern garnieren und direkt servieren.
 images:
   - Birnen-Crostini.jpeg
-ownedBy: null
