@@ -31,6 +31,7 @@ recipe: >
   Rote oder gelbe Paprikaringe zusammen mit Zucchiniwürfeln in die Pfanne über die Auberginen geben und ca. 10 Minuten ziehen lassen.
 
   Die Nudeln mit ein paar Basilikumblättern garnieren.
-images: Involtini2-300x225.jpg
-  Auberginenröllchen-mit-Paprika-und-Zucchini-300x225.jpg
-  Auberginenröllchen-mit-Paprika-und-Zucchini-2-1024x768.jpg
+images:
+  - Involtini2-300x225.jpg
+  - Auberginenröllchen-mit-Paprika-und-Zucchini-300x225.jpg
+  - Auberginenröllchen-mit-Paprika-und-Zucchini-2-1024x768.jpg
