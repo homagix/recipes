@@ -3,17 +3,22 @@ name: Lamm-Paprika-Ragout
 items:
   - 4 TL Öl
   - 1 Stk Knoblauchzehe
-  - 1 Stk je 1/2 rote, gelbe, grüne Paprikaschote
-  - 5 Stk kleine Tomaten (Curry, Cocktail)
-  - 350 g Lammschulter ohne Knochen oder Lammfilet
-  - 2 Stk mittelgro ße Zwiebeln
+  - 0.5 Stk Rote Paprika
+  - 0.5 Stk Gelbe Paprika
+  - 0.5 Stk Grüne Paprika
+  - 5 Stk Cocktailtomaten
+  - 350 g Lammfilet
+  - 2 Stk Zwiebeln
   - 1 TL Rosenpaprika
-  - 1 Stk 1 /8 l Brühe
-  - 1 Stk 1 /8 l Schlagsahne
-  - 1 Stk El Saucenbinder
-  - 1 Stk Salz , Pfeffer, mildes Paprikapulver
+  - 125 ml Brühe
+  - 125 ml Schlagsahne
+  - 1 El Saucenbinder
+  - 10 g Salz
+  - 5 g Pfeffer
+  - 15 g Paprikapulver (mild)
 recipe: |-
-  <h2>Zutaten für 2 Portionen</h2>
+  ## Zutaten für 2 Portionen
+
   - Lamm waschen, trocknen und in feine Scheiben schneiden.
   - Paprika in Streifen schneiden.
   - Zwiebeln in Scheiben schneiden.

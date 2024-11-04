@@ -9,7 +9,8 @@ items:
   - 380 g Sauerkraut
   - 1 EL Bratfett
   - 600 g Schupfnudeln
-  - 1 Stk Prise Salz und Pfeffer
+  - 1 Prise Salz
+  - 1 Prise Pfeffer
 recipe: >-
 
   Die Zwiebel schneiden und mit Bratfett im Topf leicht anbräunen. Danach das Sauerkraut dazu geben und kurz aufkochen lassen. Dann auf mittlerer Flamme leicht köcheln lassen.
@@ -17,4 +18,5 @@ recipe: >-
   Währenddessen die Schupfnudeln mit 1 EL Butter in der Pfanne goldgelb anbraten. Zum Sauerkraut dann 1 TL Brühe und 200 g Sahne geben, erneut kurz aufkochen lassen.
 
   Eine Auflaufform mit Schupfnudeln, Sauerkraut mit Soße und der Hälfte des Käses füllen, verrühren und mit Salz und Pfeffer abschmecken. Mit dem übrigen Käse bestreuen. Im Ofen bei 200°C ca. 15 min. überbacken, bis der Käse verlaufen ist.
-images: IMG_1723-e1501438665970-1024x768.jpg
+images:
+  - IMG_1723-e1501438665970-1024x768.jpg

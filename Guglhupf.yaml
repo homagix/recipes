@@ -1,5 +1,6 @@
 ---
 name: Gugelhupf
+source: Von Helga aus einem elsässischen Kochbuch
 items:
   - 500 g Mehl
   - 75 TL Zucker
@@ -11,31 +12,28 @@ items:
   - 50 g geschälte Mandeln
   - 2 Stk Eicher
 recipe: >-
-  <p>Rezept von Helga aus einem elsässischen Kochbuch</p>
+  ## Zubereitung
 
-  <h2>Zutaten</h2>
+  Die Rosinen in warmen Wasser einlegen. Die Butter warm stellen.
 
-  <h2>Zubereitung</h2>
+  Die Hälfte der Milch leicht erwärmen und darin die Hefe mit 1 TL Zucker auflösen.
 
-  <p>Die Rosinen in warmen Wasser einlegen. Die Butter warm stellen.</p>
+  Das Mehl in eine große Schüssel sieben. In der Mitte eine Kuhle drücken. Das Hefe-Milch-Gemisch in die Kuhle geben. Etwas anrühren und dann zum Vorgehen an einen mäßig warmen Ort geben. Das dauert ca. 20 min.
 
-  <p>Die Hälfte der Milch leicht erwärmen und darin die Hefe mit 1 TL Zucker auflösen. </p>
+  Das Mehl mit dem Hefegemisch gut vermengen und mit den restlichen Zutaten (Milch, Eier, weicher Butter) gut durchkneten. Mit einem Tuch für ca. 1 Stunde an einen warmen Ort stellen.
 
-  <p>Das Mehl in eine große Schüssel sieben. In der Mitte eine Kuhle drücken. Das Hefe-Milch-Gemisch in die Kuhle geben. Etwas anrühren und dann zum Vorgehen an einen mäßig warmen Ort geben. Das dauert ca. 20 min.</p>
+  Rosinen abtrocknen.
 
-  <p>Das Mehl mit dem Hefegemisch gut vermengen und mit den restlichen Zutaten (Milch, Eier, weicher Butter) gut durchkneten. Mit einem Tuch für ca. 1 Stunde an einen warmen Ort stellen.</p>
+  Den Ofen auf 200° vorheizen.
 
-  <p>Rosinen abtrocknen. </p>
+  Die Backform mit Butter fetten und mit den Mandelscheiben bestreuen.
 
-  <p>Den Ofen auf 200° vorheizen.</p>
+  Den weichen, gut gegangenen Teig noch einmal durchkneten und dabei die Rosinen gut verteilen.
 
-  <p>Die Backform mit Butter fetten und mit den Mandelscheiben bestreuen.</p>
+  Den Teig in die Backform geben und noch einmal gehen lassen, bis er die Form füllt.
 
-  <p>Den weichen, gut gegangenen Teig noch einmal durchkneten und dabei die Rosinen gut verteilen. </p>
-
-  <p>Den Teig in die Backform geben und noch einmal gehen lassen, bis er die Form füllt.</p>
-
-  <p>Für ca. 45 min backen bis der Gugelhupf leicht braun wird.</p>
+  Für ca. 45 min backen bis der Gugelhupf leicht braun wird.
 
   <figure class="wp-block-image size-large"></figure>
-images: Gugelhupf-768x1024.jpg
+images:
+ - Gugelhupf-768x1024.jpg

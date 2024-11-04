@@ -20,11 +20,9 @@ recipe: >-
 
   Dazu Reis kochen.
 
-  <h2>Erfahrungen:</h2>
+  ## Erfahrungen
 
   Mit frischem Spinat geht es auch schnell und schmeckt besser. Karotten lassen sich auch durch Paprika ersetzen.
-
-
-  &nbsp;
-images: Sojageschnetzeltes-mit-Spinat-u-Mungobohnen.jpg
-  IMG_0318-150x150.jpg
+images:
+  - Sojageschnetzeltes-mit-Spinat-u-Mungobohnen.jpg
+  - IMG_0318-150x150.jpg

@@ -10,9 +10,6 @@ items:
   - 50 Stk gr Parmesan
   - 50 Stk gr Gruyère
 recipe: >-
-
-  &nbsp;
-
   Spinat in Butter, Zwiebeln, Knoblauch kurz andünsten. Evtl. etwas Zitronensaft dazugeben, um den bitteren Geschmack abzuschwächen. Mit Salz, Pfeffer, Muskatnuss würzen.
 
   Champignons in dünne Streifen schneiden. Scharf anbraten. Mit Salz, Pfeffer, Zitronensaft würzen. Pilzsaft einkochen. Mit Sahne ablöschen. Etwas einkochen. Mit dem Spinat vermischen.
@@ -20,6 +17,5 @@ recipe: >-
   Alles in eine kleine Auflaufform. Mit dem geriebenem Käse bestreuen. Eine Viertelstunde überbacken.
 
   Dazu passt Reis sehr gut.
-
-  &nbsp;
-images: IMG_0683-300x225.jpg
+images:
+  - IMG_0683-300x225.jpg
