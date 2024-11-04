@@ -25,5 +25,6 @@ recipe: >-
   </ol>
 
   Dazu eignet sich sehr gut ein Baguette. Wir hatten das Dinkelbaguette von Alnatura und das war lecker.
-images: EiersalatMitAvocado1-300x225.jpg
-  EiersalatMitAvocado2-300x225.jpg
+images:
+  - EiersalatMitAvocado1-300x225.jpg
+  - EiersalatMitAvocado2-300x225.jpg
