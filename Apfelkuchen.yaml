@@ -11,10 +11,9 @@ items:
   - 1 Stk 1 /2 Zitrone
   - 1 Stk Ei
 recipe: >-
-  <h1>Was wird benötigt:</h1>
+  # Was wird benötigt:
 
-
-  <h1>Verarbeitung</h1>
+  Verarbeitung
 
   Zutaten für den Teig gleichmäßig verkneten. Den Teig ca. 1 h kaltstellen.
 
@@ -25,4 +24,5 @@ recipe: >-
   Äpfel in die Springform geben und verteilen. Das restliche Drittel Teig ausrollen und in schmale Streifen schneiden, die Streifen in einem Gittermuster auf die Äpfel legen.
 
   Den Kuchen ca. 1 Std. bei 180°C Ober- und Unterhitze in den Ofen. Dann heraus nehmen und auf einem Gitter etwas abkühlen lassen. Der Kuchen schmeckt warm auch sehr gut!
-images: IMG_0317.jpg
+images: 
+  - IMG_0317.jpg
