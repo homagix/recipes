@@ -2,4 +2,5 @@
 name: Mango-Joghurt-Creme
 items: []
 recipe: ""
-images: IMG_0883-300x225.jpg
+images:
+  - IMG_0883-300x225.jpg

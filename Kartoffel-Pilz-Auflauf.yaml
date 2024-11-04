@@ -15,14 +15,14 @@ recipe: >
 
   Für 4 Personen:
 
-  <ol>
-  	<li>Kartoffeln, Pilze und Karotten in dünne Scheiben schneiden.</li>
-  	<li>Die Pilze mit Öl und Zitrone beträufeln / einlegen.</li>
-  	<li>Petersilie in Streifen schneiden, mit Semmelbrösel und Käse mischen.</li>
-  	<li>Backofen auf 175° vorheizen.</li>
-  	<li>Auflaufform (mit Deckel) mit Öl ausstreichen, abwechselnd Gemüse einschichten und jede Lage mit Salz und Pfeffer bestreuen und mit Öl beträufeln.</li>
-  	<li>Oberste Lage mit der Bröselmischung bestreuen.</li>
-  	<li>1 Stunde backen.</li>
-  </ol>
-images: KartoffelPilzAuflauf2.jpg
-  KartoffelPilzAuflauf1.jpg
+  -	Kartoffeln, Pilze und Karotten in dünne Scheiben schneiden.
+  -	Die Pilze mit Öl und Zitrone beträufeln / einlegen.
+  -	Petersilie in Streifen schneiden, mit Semmelbrösel und Käse mischen.
+  -	Backofen auf 175° vorheizen.
+  -	Auflaufform (mit Deckel) mit Öl ausstreichen, abwechselnd Gemüse einschichten und jede Lage mit Salz und Pfeffer bestreuen und mit Öl beträufeln.
+  -	Oberste Lage mit der Bröselmischung bestreuen.
+  -	1 Stunde backen.
+
+images:
+  - KartoffelPilzAuflauf2.jpg
+  - KartoffelPilzAuflauf1.jpg

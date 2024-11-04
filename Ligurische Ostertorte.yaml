@@ -1,5 +1,6 @@
 ---
 name: Ligurische Ostertorte
+source: Die echte italienische Küche, S. 18
 items:
   - 500 g Mehl
   - 2 L Olivenöl
@@ -15,11 +16,7 @@ items:
 recipe: >-
   Zubereitungszeit: 3 Stunden
 
-  Quelle: Die echte italienische Küche, S. 18
-
-  <h2>Zutaten für 8 Personen</h2>
-
-  Für den Teig:
+  Zutaten für 8 Personen
 
   Für den Teig 500g Mehl mit einer Prise Salz auf das Backbrett geben. 2 EL Öl untermischen und mit so viel Wasser (etwa 1/4 Liter) verkneten, dass ein glatter, geschmeidiger Teig entsteht. Etwa 10 Minuten kneten. Teig in 12 gleichmäßig große Stücke teilen, zu kleinen Kugeln formen und auf ein mit Mehl bestäubtes Tuch legen. Mit einem leicht angefeuchteten Tuch abdecken, etwa eine Stunde ruhen lassen.Mengen halbiert, reicht trotzdem für 4 Personen.
 
@@ -29,16 +26,14 @@ recipe: >-
 
   Ganz wichtig: Nicht direkt aus dem Kühlschrank servieren - lauwarm schmeckt die Torte am Besten!
 
-  <ol>
-  	<li>Für die Füllung Spinat putzen und waschen, tropfnaß in einen Topf geben, salzen und kurz aufkochen. Danach die Blätter gut abtropfen und abkühlen lassen, fest auspressen. Spinat fein hacken und mit Salz, Pfeffer und Majoran würzen.</li>
-  	<li>Das Brötchen klein schneiden und in der Milch einweichen. 2 Eier verquirlen und drei EL Parmesan einrühren. Mit dem ausgedrückten Brötchen vermischen, Ricotta unterrühren, Spinat unterheben, kräftig würzen. Backhofen auf 200°C vorheizen.</li>
-  	<li>Eie der Teigkugeln auf bemehlter Fläche so dünn wie möglich ausrollen, danach mit den Händen vorsichtig in alle Richtungen noch dünner ausziehen.</li>
-  	<li>Eine Springform ölen, die Teigplatte so hinein legen, dass sie den Rand der Backform etwa 1 cm überlappt. Leicht mit Öl einstreichen. 5 weitere Teigportionen ebenso verarbeiten und in die Form legen. Jede Schicht ausser der letzten mit Öl bestreichen.</li>
-  	<li>Die Füllung auf dem Teig verteilen, glatt streichen und mit etwas Öl beträufeln. Mit dem Löffelrücken in gleichmäßigen Abständen sechs Vertiefungen in die Füllung drücken. Jeweils ein Flöckchen Butter hinen geben. 6 Eier nacheinander in die Vertiefungen gleiten lassen, ohne dass der Dotter verletzt wird. Eier salzen und pfeffern, mit restlichem Käse bestreuen.</li>
-  	<li>Die übrigen Teigportionen ausrollen, dünn ausziehen und ebenfalls nacheinander in die Form legen, dabei jeweils dünn mit Öl bestreichen. Am Rand mit Butterstückchen belegen. Die überlappenden Teigränder nach innen aufrollen und andrücken.</li>
-  	<li>Die Teigoberfläche mit Öl einstreichen, vorsichtig einige Löcher einstechen (dabei die Eier nicht verletzen!), im Backofen 75 Minuten goldbraun backen.</li>
-  </ol>
+  -	Für die Füllung Spinat putzen und waschen, tropfnaß in einen Topf geben, salzen und kurz aufkochen. Danach die Blätter gut abtropfen und abkühlen lassen, fest auspressen. Spinat fein hacken und mit Salz, Pfeffer und Majoran würzen.
+  -	Das Brötchen klein schneiden und in der Milch einweichen. 2 Eier verquirlen und drei EL Parmesan einrühren. Mit dem ausgedrückten Brötchen vermischen, Ricotta unterrühren, Spinat unterheben, kräftig würzen. Backhofen auf 200°C vorheizen.
+  -	Eie der Teigkugeln auf bemehlter Fläche so dünn wie möglich ausrollen, danach mit den Händen vorsichtig in alle Richtungen noch dünner ausziehen.
+  -	Eine Springform ölen, die Teigplatte so hinein legen, dass sie den Rand der Backform etwa 1 cm überlappt. Leicht mit Öl einstreichen. 5 weitere Teigportionen ebenso verarbeiten und in die Form legen. Jede Schicht ausser der letzten mit Öl bestreichen.
+  -	Die Füllung auf dem Teig verteilen, glatt streichen und mit etwas Öl beträufeln. Mit dem Löffelrücken in gleichmäßigen Abständen sechs Vertiefungen in die Füllung drücken. Jeweils ein Flöckchen Butter hinen geben. 6 Eier nacheinander in die Vertiefungen gleiten lassen, ohne dass der Dotter verletzt wird. Eier salzen und pfeffern, mit restlichem Käse bestreuen.
+  -	Die übrigen Teigportionen ausrollen, dünn ausziehen und ebenfalls nacheinander in die Form legen, dabei jeweils dünn mit Öl bestreichen. Am Rand mit Butterstückchen belegen. Die überlappenden Teigränder nach innen aufrollen und andrücken.
+  -	Die Teigoberfläche mit Öl einstreichen, vorsichtig einige Löcher einstechen (dabei die Eier nicht verletzen!), im Backofen 75 Minuten goldbraun backen.
 
-  &nbsp;
-images: Ligurische-Ostertorte-2-300x225.jpg
-  Ligurische-Ostertorte-300x225.jpg
+images:
+  - Ligurische-Ostertorte-2-300x225.jpg
+  - Ligurische-Ostertorte-300x225.jpg

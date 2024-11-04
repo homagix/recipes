@@ -9,4 +9,5 @@ recipe: Champignons putzen und entstielen, die hälfte der Köpfe mit
   Kräuterbutter, die andere mit pürierten schwarzen Oliven füllen. Weitere
   Oliven, Tomaten und die Pilzstengel pürieren und würzen. Als Sauce für Reis
   verwenden.
-images: Gefüllte-Champignons-mit-Olpito-Sauce-300x224.jpg
+images:
+  - Gefüllte-Champignons-mit-Olpito-Sauce-300x224.jpg

@@ -13,14 +13,6 @@ items:
   - 400 g Räucher-Tofu
   - 1 Stk Becher Sahne
 recipe: >-
-  <div>
-
-  <strong>Zutaten</strong>
-
-  </div>
-
-  <div style="clear: both;">
-
   Wirsing gründlich waschen. große Strünke entfernen und in Streifen schneiden.
 
   Zwiebeln grob würfeln, Ingwer in kleine Streifen schneiden.
@@ -30,6 +22,5 @@ recipe: >-
   Würzen und zuletzt Sahne und Joghurt ergänzen.
 
   Fertig. Schmeckt gut mit Reis oder Süßkartoffeln.
-
-  </div>
-images: Wirsing-e1541968572942-300x225.jpg
+images:
+  - Wirsing-e1541968572942-300x225.jpg

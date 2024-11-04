@@ -21,5 +21,6 @@ recipe: 1. Mehl mit Milch und 1 Prise Salz glatt rühren. Eier und Butter
   dünne Crepes bei mittlerer Hitze backen. 3. Die Crepes mit der
   Frischkäsemischung bestreichen und mit Spargel, Erdbeeren belegen. Zu je einer
   Rolle aufrollen.
-images: IMG_3732-225x300.jpg
-  IMG_3730.jpg
+images:
+ - IMG_3732-225x300.jpg
+ - IMG_3730.jpg
