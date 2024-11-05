@@ -2,13 +2,13 @@
 name: Apfelkuchen (Apfel > Teig)
 items:
   - 200 g Butter
-  - 1 Stk Prise Salz
+  - 1 Prise Salz
   - 300 g Dinkelvollkornmehl
   - 50 g Weizenmehl
   - 100 g Rohrzucker
-  - 1 Stk gestrichener TL Backpulver
-  - 1 kg Äpfel (Boskop, Cox Orange)
-  - 1 Stk 1 /2 Zitrone
+  - 1 TL Backpulver
+  - 1 kg Äpfel
+  - 0.5 Stk Zitrone
   - 1 Stk Ei
 recipe: >-
   # Was wird benötigt:
